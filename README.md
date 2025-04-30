@@ -36,8 +36,4 @@ All charts are available in the notebook — bar plots, scatter plots, and heatm
    - Your `README.md` file
 5. Click **Commit changes**
 
----
 
-✅ That’s it! You now have a complete portfolio-ready project on GitHub.
-
-Would you like me to review the final notebook if you upload it here before you push it to GitHub?
